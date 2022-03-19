@@ -1,0 +1,18 @@
+.user-display{
+    width: 73%;
+    border-right: 1px solid white;
+    margin: 0;
+    
+}
+.seleced-area{
+    width: 27%;
+}
+.containers{
+    display:flex;
+}
+#salary{
+    background: darkturquoise;    
+}
+#salary h4{
+    padding: 10px 0;
+}

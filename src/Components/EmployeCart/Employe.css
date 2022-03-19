@@ -1,0 +1,32 @@
+.card {
+    background-color: transparent;
+    margin: 25px 10px;
+    border: 1px solid white;
+    box-shadow: 8px 8px 16px black;
+    border-radius: 0 10px;
+}
+
+.card:hover {
+    box-shadow: 2px 2px 8px aqua;
+}
+
+.employeImg {
+    border-radius: 0 10px;
+}
+
+.card-title {
+    font-size: 20px;
+    line-height: 0;
+    padding-top: 10px;
+    color: aqua;
+}
+
+.text-muted {
+    font-size: 18px;
+    line-height: 0;
+    color: white;
+}
+.employeeStatus{
+    background-color: black;
+    padding: 15px 0;
+}
